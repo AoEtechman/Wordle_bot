@@ -200,7 +200,7 @@ def make_guess(guess):
     """
     This function types guess into wordle web page
     """
-    keyboard.write(guess, .05)
+    keyboard.write(guess, .2)
     keyboard.press_and_release('enter')
 
 
