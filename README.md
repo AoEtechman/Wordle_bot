@@ -1,6 +1,6 @@
 # Wordle_bot
 
-This repository contains a python script that that can play the wordle game by itself using concepts I learned from watching 3Blue1Brown's video(https://www.youtube.com/watch?v=v68zYyaEmEA&t=713s&ab_channel=3Blue1Brown) about beating the Wordle game utilizing information theory. Utilizing all of the words that Wordle allows users to guess, the bot is able to complete the wordle game in 3-4 guesses on average.
+This repository contains a python script that that can play the wordle game by itself using concepts I learned from watching 3Blue1Brown's video(https://www.youtube.com/watch?v=v68zYyaEmEA&t=713s&ab_channel=3Blue1Brown) about beating the Wordle game utilizing information theory. Utilizing all of the words that Wordle allows users to guess, the bot is able to complete the wordle game in less than 4 guesses on average.
 
 
 wordle_answers.txt contains all of the words that Wordle uses in its game
